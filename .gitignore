@@ -1,0 +1,7 @@
+/config.py
+/*db*
+.idea/*
+/secrets.json
+/.env
+/venv
+/happyelephant/settings.py
